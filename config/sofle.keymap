@@ -37,8 +37,8 @@
             // |   `   |  1  |  2  |  3   |  4   |  5   |                   |  6   |  7    |  8    |  9   |   0   | BKSPC |
             // |  ESC  |  Q  |  W  |  E   |  R   |  T   |                   |  Y   |  U    |  I    |  O   |   P   |  DEL  |
             // |  TAB  |  A  |  S  |  D   |  F   |  G   |                   |  H   |  J    |  K    |  L   |   '   | ENTER |
-            // | SHIFT |  Z  |  X  |  C   |  V   |  B   |                   |  N   |  M    |  ,    |  .   |   /   | SHIFT |
-            //               | GUI | ALT  | CTRL | LOWER|  SPACE |  | SPACE | RAISE| CTRL  | ALT   | GUI  |
+            // | SHIFT |  Z  |  X  |  C   |  V   |  B   |                   |  N   |  M    |  ^    |   .  |   ,   |   .   |
+            //               | GUI | ALT  | CTRL | LOWER|  SPACE |  | SPACE | RAISE|  <-   |  v    |  ->  |
 
             bindings = <
 &kp GRAVE  &kp N1  &kp N2            &kp N3    &kp N4        &kp N5                             &kp N6     &kp N7    &kp N8        &kp N9     &kp N0     &kp BSPC
